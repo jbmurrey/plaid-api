@@ -1,0 +1,7 @@
+﻿{
+   "client_id": "63616680ec3d1400135bf5e5",
+  "secret": "de6f403650b1fff2c97f810b479b52",
+  "access_token": "",
+  "start_date": "2021-01-01",
+  "end_date": "2021-12-10" 
+}
